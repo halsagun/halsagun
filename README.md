@@ -1,5 +1,5 @@
 # sobre mim
-- 👋 ola, eu sou @halsagun
+- 👋 ola, eu sou @has al ghul
 - o meu email é lima.israel@escola.pr.gov.br
 - 👍
 - 👀 eu estou interessado em aprender novas linguagens de programação
